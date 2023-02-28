@@ -1,0 +1,6 @@
+framework module RxAlertController_Swift {
+  umbrella header "RxAlertController-Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
