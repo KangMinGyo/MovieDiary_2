@@ -1,0 +1,41 @@
+/*
+  Localizable.strings
+  MovieDiary
+
+  Created by KangMingyo on 2022/11/24.
+  
+*/
+
+
+//MARK: MovieReviewList
+reviewList = "리뷰 목록";
+
+//MARK: MovieSearch
+movieSearchTitle = "영화 검색";
+searchBar = "영화 이름을 검색해주세요";
+
+//MARK: ReviewWrite
+myReview = "나의 리뷰";
+myRate = "나의 평가";
+reviewView = "내용을 입력해주세요.";
+rateButton = "이 영화에 대한 평가를 선택해주세요";
+
+saveButton = "등록";
+
+contentsTitle = "잠깐!";
+contensMessage = "나의 리뷰를 작성해주세요";
+contensMessage2 = "영화 평가를 해주세요";
+
+actionSheet = "영화는 어땠나요?";
+
+best = "인생영화";
+good = "꿀잼영화";
+notbad = "보통영화";
+bad = "최악영화";
+
+//MARK: BoxOffice
+boxOfficeTitle = "박스오피스 순위";
+
+//MARK: Setting
+setting = "설정";
+feedback = "문의하기";

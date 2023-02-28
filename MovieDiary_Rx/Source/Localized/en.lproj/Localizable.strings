@@ -1,0 +1,41 @@
+/*
+  Localizable.strings
+  MovieDiary
+
+  Created by KangMingyo on 2022/11/24.
+  
+*/
+
+//MARK: MovieReviewList
+reviewList = "Review List";
+
+//MARK: MovieSearch
+movieSearchTitle = "Movie Search";
+searchBar = "Search the movie name";
+
+
+//MARK: ReviewWrite
+myReview = "My Review";
+myRate = "My Rate";
+reviewView = "Please enter your review";
+rateButton = "Please select my rating for this movie";
+
+saveButton = "Save";
+
+contentsTitle = "Wait!";
+contensMessage = "Please enter my review";
+contensMessage2 = "Please select a my rate";
+
+actionSheet = "How was the movie";
+
+best = "Best";
+good = "Good";
+notbad = "Notbad";
+bad = "Bad";
+
+//MARK: BoxOffice
+boxOfficeTitle = "BoxOffice Rank";
+
+//MARK: Setting
+setting = "Settings";
+feedback = "feedback";
